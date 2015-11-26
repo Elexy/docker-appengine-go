@@ -1,4 +1,4 @@
-FROM gcr.io/google_appengine/golang
+FROM google/golang
 MAINTAINER Alex Knol <alexknol@gmail.com>
 
 ENV GAE_VER 1.9.23
